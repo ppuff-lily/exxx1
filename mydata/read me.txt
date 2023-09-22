@@ -1,2 +1,0 @@
-Dear editors:
-The number of images in the data set in this paper is 2468, and only 2430 images are finally convoluted. Some duplicate and meaningless images are eliminated, and the number of real data sets is subject to Annotations
