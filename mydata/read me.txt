@@ -1,6 +1,6 @@
-Dear editors:
-The number of images in the data set in this paper is 2468, and only 2430 images are finally convoluted. Some duplicate and meaningless images are eliminated, and the number of real data sets is subject to Annotations
+Dear reviewers:
+The number of images in the data set in this article is 2528.
 Due to the large image dataset, GitHub cannot be uploaded. Therefore, I have provided a sharing link for Baidu Netdisk. If you have any other questions, please contact:
 tzx15005285738@outlook.com
-链接：https://pan.baidu.com/s/1R4oIpYW6da2DEMnNwA-TMA 
-提取码：juw3 
+链接：https://pan.baidu.com/s/1iJIESEgFTaM6Y49_4ruaaQ 
+提取码：jckq 
